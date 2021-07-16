@@ -7,6 +7,7 @@ public class stackAndQueue {
 		stack.push(70);
 		stack.push(30);
 		stack.push(56);
+		System.out.println("Stack and queue list is :: ");
 		stack.print();
 	}
 }
